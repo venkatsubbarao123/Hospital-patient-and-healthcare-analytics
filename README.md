@@ -917,21 +917,6 @@ The machine learning model is intended only to demonstrate an analytical workflo
 * Medical decision-making
 * Real-world healthcare deployment
 
----
-
-# 📚 Attribution
-
-This repository is based on an existing open-source healthcare analytics project and has been adapted for portfolio and learning purposes.
-
-Original project/source:
-
-```text
-https://github.com/Lakshmisundaramoorthy/Hospital-patient-and-healthcare-analytics
-```
-
-Please refer to the original repository and its license for the original project's terms and attribution requirements.
-
----
 
 # 👨‍💻 Author
 

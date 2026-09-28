@@ -639,7 +639,6 @@ Hospital-patient-and-healthcare-analytics/
 │
 ├── README.md
 ├── requirements.txt
-├── LICENSE
 └── .gitignore
 ```
 
